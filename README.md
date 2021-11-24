@@ -1,6 +1,5 @@
 ### Hi there 👋
 Hello my name is Hayotbek, I'am Software Developer from Uzbekistan. <br>
-Contact me:
 <!-- Instagram: https://www.instagram.com/hayotbekabdulazizov200 -->
 <a href="https://www.instagram.com/hayotbekabdulazizov200"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Файл:Instagram icon.png — Википедия" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 50; height: 50px; margin: 0px;"> </a>
