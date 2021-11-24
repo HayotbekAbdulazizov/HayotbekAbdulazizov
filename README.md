@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello my name is Hayotbek, I'am Software Developer from Uzbekistan.
+Hello my name is Hayotbek, I'am Software Developer from Uzbekistan. <br>
 Contact me:
 <!-- Instagram: https://www.instagram.com/hayotbekabdulazizov200 -->
 <a href="https://www.instagram.com/hayotbekabdulazizov200"> 
