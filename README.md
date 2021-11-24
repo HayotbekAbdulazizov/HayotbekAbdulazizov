@@ -7,3 +7,5 @@ Contact me:
 <img alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" style="max-width: 100%;" width="750" height="450" align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayotbekabdulazizov)](https://github.com/anuraghazra/github-readme-stats)]
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Файл:Instagram icon.png — Википедия" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 383px; height: 383px; margin: 0px;">
