@@ -33,7 +33,7 @@
   <img align="left" alt="Ganesh Hackerrank " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
 </a>
 
-![Profile views](https://gpvc.arturio.dev/hayotbekabdulazizov) 
+<!-- ![Profile views](https://gpvc.arturio.dev/hayotbekabdulazizov)  -->
 
 
 </br>
@@ -88,6 +88,6 @@ I am a coder , educator and a Data Scientist. I love data and analytics. In my d
 
 ### Reach Me
 
-[Website](https://about.me/ganeshkavhar) </br>
-[Developer Portfolio](https://sourcerer.io/ganeshkavhar)
+<!-- [Website](https://about.me/ganeshkavhar) </br> -->
+<!-- [Developer Portfolio](https://sourcerer.io/ganeshkavhar) -->
 <!---
