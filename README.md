@@ -14,9 +14,9 @@
 
 
 <a href="https://www.github.com/hayotbekabdulazizov/">
-  <img align="left" alt="Ganesh GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
+  <img align="left" alt="Hayotbek GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ganeshkavhar/">
+<a href="https://www.linkedin.com/in/hayotbekabdulazizov/">
   <img align="left" alt="Ganesh LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
 <a href="https://www.instagram.com/hayotbekabdulazizov05/">
@@ -44,7 +44,7 @@
 Here are some ideas to get you started: 
 -->
  
-- 🇺🇿: From Rio Grande do Sul / Living in São Paulo
+- 🇺🇿: Originally from Uzbekistan,Andijan / Living in Uzbekistan/Tashkent
 <!-- - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/) -->
 - :two_hearts: In love with Python
 - :seedling: Learning more Data Science, Software Engineering and Machine Learning
