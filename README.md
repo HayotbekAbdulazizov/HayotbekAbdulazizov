@@ -43,9 +43,9 @@
 
 Here are some ideas to get you started: 
 -->
- 
+
+<!-- - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/) --> 
 - 🇺🇿: Originally from Uzbekistan,Andijan / Living in Uzbekistan,Tashkent
-<!-- - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/) -->
 - :two_hearts: In love with Python
 - :seedling: Learning more Data Science, Software Engineering and Machine Learning
 - :handshake: You can also find me on [LinkedIn](https://br.linkedin.com/in/https://www.linkedin.com/in/hayotbekabdulazizov/).
@@ -60,10 +60,6 @@ I am a coder , educator and a Data Scientist. I love data and analytics. In my d
 <!-- I love Python and woring for Data Science since few months. -->
 
 ### Skills ⭕
-<code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
-<code><img height="48" src="https://www.rlogical.com/wp-content/uploads/2019/05/android.png"></code>
-<code><img height="48" src="https://p7.hiclipart.com/preview/237/686/510/html-css-design-and-build-web-sites-responsive-web-design-web-development-cascading-style-sheets-technical-application.jpg"></code>
-<code><img height="60" src="https://i.pinimg.com/originals/06/bc/e8/06bce81285badba0c3becd273ca67f95.png"></code>
 
 
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
