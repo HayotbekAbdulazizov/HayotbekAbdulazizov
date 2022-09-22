@@ -44,7 +44,7 @@
 Here are some ideas to get you started: 
 -->
  
-- 🇺🇿: Originally from Uzbekistan,Andijan / Living in Uzbekistan/Tashkent
+- 🇺🇿: Originally from Uzbekistan,Andijan / Living in Uzbekistan,Tashkent
 <!-- - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/) -->
 - :two_hearts: In love with Python
 - :seedling: Learning more Data Science, Software Engineering and Machine Learning
