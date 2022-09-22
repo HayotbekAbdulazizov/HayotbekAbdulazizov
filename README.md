@@ -1,6 +1,5 @@
-### Hi there 👋
-<!-- <img alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" style="max-width: 50%;" width="550" height="400" align="right"> -->
 
+<!-- <img alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" style="max-width: 50%;" width="550" height="400" align="right"> -->
 ### Hey, I'm Hayotbek! 👋
 - :technologist: Machine Learning Engineer at [Nubank](https://github.com/nubank)
 - 🇺🇿: From Rio Grande do Sul / Living in São Paulo
