@@ -10,30 +10,30 @@
  -->
  
  
- ### Hi there 👋 I'm Hayotbek 🙋‍♂️       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+ ### Hi there 👋 I'm Hayotbek 🙋‍♂️      
 
 
-<a href="https://www.github.com/ganeshkavhar/">
+<a href="https://www.github.com/hayotbekabdulazizov/">
   <img align="left" alt="Ganesh GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ganeshkavhar/">
   <img align="left" alt="Ganesh LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
 </a> 
-<a href="https://www.instagram.com/ganeshkavhar/">
+<a href="https://www.instagram.com/hayotbekabdulazizov05/">
   <img align="left" alt="Ganesh  Instagram" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ganeshkavhar/">
+<a href="https://www.facebook.com/hayotbekabdulazizov.dev/">
   <img align="left" alt="Ganesh  Facebook " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/facebook.svg" />
 </a>
-<a href="https://www.twitter.com/kavharg/">
-  <img align="left" alt="Ganesh Twitter " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/twitter.svg" />
-</a>
+<!-- <a href="https://www.twitter.com/kavharg/"> -->
+<!--   <img align="left" alt="Ganesh Twitter " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/twitter.svg" /> -->
+<!-- </a> -->
 
-<a href="https://www.hackerrank.com/ganeshkavhar">
+<a href="https://www.hackerrank.com/abdulazizov">
   <img align="left" alt="Ganesh Hackerrank " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
 </a>
 
-![Profile views](https://gpvc.arturio.dev/ganeshkavhar) 
+![Profile views](https://gpvc.arturio.dev/hayotbekabdulazizov) 
 
 
 </br>
@@ -44,26 +44,20 @@
 Here are some ideas to get you started: 
 -->
  
-- 👨‍🎓  Master student.
-- 👨‍💻 #SelfTaught Developer.
-- 📱 SQL Developer.
-- 📱 ETL Specialist.
-- 👨‍💻 Mostly working on ❤️ Database  ❤️ Oracle 🔥 Python !
-- 🌐 Little bit exploring Data Science too.
-- Proud 🇮🇳.
+- 🇺🇿: From Rio Grande do Sul / Living in São Paulo
+<!-- - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/) -->
+- :two_hearts: In love with Python
+- :seedling: Learning more Data Science, Software Engineering and Machine Learning
+- :handshake: You can also find me on [LinkedIn](https://br.linkedin.com/in/https://www.linkedin.com/in/hayotbekabdulazizov/).
 
 
-### About Me
-I am a coder , educator and a Data Scientist. I love data and analytics. In my day job, I work with database technologies including SQL, Python  , Big Data and Tableau. I am passionate about technologies and love coding and managing teams. In my spare time I like to teach Python , Web development , Python ,Data Structure and Algorithm  Databases, Programming etc. I am currently working on certain machine learning and Data Science projects and love to explore more in the Statistics field.
+<!-- ### About Me
+I am a coder , educator and a Data Scientist. I love data and analytics. In my day job, I work with database technologies including SQL, Python  , Big Data and Tableau. I am passionate about technologies and love coding and managing teams. In my spare time I like to teach Python , Web development , Python ,Data Structure and Algorithm  Databases, Programming etc. I am currently working on certain machine learning and Data Science projects and love to explore more in the Statistics field. -->
 
-Data Scientist with extensive  in solving many real world business problems across different domains.
+<!-- Data Scientist with extensive  in solving many real world business problems across different domains. -->
 
-### Data Science 
-I love Python and woring for Data Science since few months.
-
-### 📱 Android & iOS Apps
-<code><a href="https://play.google.com/store/apps/dev?id=8393030826598083311" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></a></code>
+<!-- ### Data Science  -->
+<!-- I love Python and woring for Data Science since few months. -->
 
 ### Skills ⭕
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
