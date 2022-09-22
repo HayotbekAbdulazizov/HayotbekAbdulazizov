@@ -1,6 +1,6 @@
 
 <!-- <img alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" style="max-width: 50%;" width="550" height="400" align="right"> -->
-### Hey, I'm Hayotbek! 👋
+<!-- ### Hey, I'm Hayotbek! 👋 -->
 <!-- - :technologist: Python Developer
 - 🇺🇿: From Rio Grande do Sul / Living in São Paulo
 - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/)
@@ -10,7 +10,7 @@
  -->
  
  
- ### Hi there 👋 I'm Ganesh 🙋‍♂️       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+ ### Hi there 👋 I'm Hayotbek 🙋‍♂️       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 
 <a href="https://www.github.com/ganeshkavhar/">
