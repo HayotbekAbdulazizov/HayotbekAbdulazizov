@@ -59,27 +59,7 @@ I am a coder , educator and a Data Scientist. I love data and analytics. In my d
 <!-- ### Data Science  -->
 <!-- I love Python and woring for Data Science since few months. -->
 
-### Skills ⭕
 
-
-<code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
-<code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
-<code><img height="43" src="https://www.defactoinfotech.com/wp-content/uploads/2018/04/pOWERbi-png.png"></code>
-<code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
-<code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
-<code><img height="53" src="https://img.icons8.com/color/452/mongodb.png"></code>
-<code><img height="60" src="https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png"></code>
-
-
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png"></code>
-<code><img height="50" src="https://cdn-images-1.medium.com/max/1024/1*-QTg-_71YF0SVshMEaKZ_g.png"></code>
-<code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
-<code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkavhar&layout=compact" alt="ganeshkavhar" /></p>
 
 
 ### Reach Me
